@@ -4,7 +4,7 @@ A persona-based AI chatbot that lets you have real conversations with three Scal
 
 ## Live Demo
 
-https://brixdorf-persona-chatbot.vercel.app/
+persona-chatbot-eta.vercel.app
 
 ## Tech Stack
 
@@ -38,8 +38,8 @@ persona-chatbot/
 **1. Clone the repository**
 
 ```
-git clone git@github.com:brixdorf/persona-chatbot.git
-cd persona-chatbot
+git clone git@github.com:gtmmedia/Persona-chatbot.git
+cd Persona-chatbot
 ```
 
 **2. Install dependencies**
